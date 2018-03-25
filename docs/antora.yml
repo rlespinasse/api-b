@@ -1,0 +1,7 @@
+name: api-b
+title: API b
+version: 'latest'
+nav:
+- modules/ROOT/nav.adoc
+- modules/endpoints/nav.adoc
+- modules/ROOT/nav-end.adoc
